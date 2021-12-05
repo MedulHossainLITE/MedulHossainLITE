@@ -1,9 +1,8 @@
 ### Helloo there, Welcome to the next generation 👋
 
 
-**MedulHossainLITE/MedulHossainLITE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Know about me:
 
 - 🔭 I’m currently working on Human Computer Interaction Research .
 - 🌱 I’m currently learning Machine Language.
