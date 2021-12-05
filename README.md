@@ -1,5 +1,5 @@
 ### Helloo there, Welcome to the next generation 👋
-
+## I am Medul Hossain Masum . I am enthuastic about "Emotional Intelligence" . Currently , I am researching on HCI (Human Computer Interaction). I am a web developer and Mobile app developer also. I have completed my Bachelor degree from AMERICAN INTERNATIONAL UNIVERSITY-BANGLADESH" as Computer Science Engeering Student. 
 
 
 ### Know about me:
