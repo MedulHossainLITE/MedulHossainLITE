@@ -1,8 +1,9 @@
-# Helloo there, Welcome to the next generation
+### Helloo there, Welcome to the next generation 👋
 
+<!--
 **MedulHossainLITE/MedulHossainLITE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-##Know about me:
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Human Computer Interaction Research .
 - 🌱 I’m currently learning Machine Language.
@@ -11,5 +12,5 @@
 - 💬 Ask me about My Career.
 - 📫 How to reach me: email me at medulhossainmasum@yahoo.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am a gamer also..
+- ⚡ Fun fact: I am a gamer also
 
