@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Medul Hossain Masum</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.I am enthuastic about "Emotional Intelligence" . Currently , I am doing my research on HCI (Human Computer Interaction). I am a web developer and Mobile app developer also. I have completed my Bachelor degree from AMERICAN INTERNATIONAL UNIVERSITY-BANGLADESH" as Computer Science Engeering Student.</h3>
-
+#### I am a Software Engnieer
+![I am a Software Engnieer](https://media-exp1.licdn.com/dms/image/C5616AQFO5wDtmPGATw/profile-displaybackgroundimage-shrink_350_1400/0/1630867158903?e=1644451200&v=beta&t=iDyC4chOTjCCy_iwFpdMCimeUyPi5mrVjUGYxJFft1U)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medulhossainlite&label=Profile%20views&color=0e75b6&style=flat" alt="medulhossainlite" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medulhossainlite" alt="medulhossainlite" /></a> </p>
