@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about My Career.
 - 📫 How to reach me: email me at medulhossainmasum@yahoo.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am a gamer also
+- ⚡ Fun fact: I am a gamer also..
 
