@@ -4,7 +4,6 @@
 
 I am enthuastic about "Emotional Intelligence" . Currently , I am doing my research on HCI (Human Computer Interaction). I am a web developer and Mobile app developer also. I have completed my Bachelor degree from AMERICAN INTERNATIONAL UNIVERSITY-BANGLADESH" as Computer Science Engeering Student.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Human Computer Interaction 
 - 🌱 I’m currently learning Machine Language 
