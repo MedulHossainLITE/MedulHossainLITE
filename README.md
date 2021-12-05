@@ -7,7 +7,7 @@ I am enthuastic about "Emotional Intelligence" . Currently , I am doing my resea
 
 - 🔭 I’m currently working on Human Computer Interaction 
 - 🌱 I’m currently learning Machine Language 
-- 📫 How to reach me: medulhossainmassum@yahoo.cpm 
+- 📫 How to reach me: medulhossainmassum@yahoo.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MedulHOssainLITE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/medulhossainm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/itsmedulhossain)  
